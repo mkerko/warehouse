@@ -1,6 +1,6 @@
 package com.wf.warehouse.controller;
 
-import com.wf.warehouse.exceptions.EntityWasNotFoundException;
+import com.wf.warehouse.exception.EntityWasNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

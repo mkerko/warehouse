@@ -1,7 +1,7 @@
 package com.wf.warehouse.service;
 
 import com.wf.warehouse.domain.Item;
-import com.wf.warehouse.exceptions.EntityWasNotFoundException;
+import com.wf.warehouse.exception.EntityWasNotFoundException;
 import com.wf.warehouse.repository.ItemRepository;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;

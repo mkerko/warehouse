@@ -1,4 +1,4 @@
-package com.wf.warehouse.exceptions;
+package com.wf.warehouse.exception;
 
 public class EntityWasNotFoundException extends Exception {
 
